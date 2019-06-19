@@ -1,0 +1,29 @@
+namespace test;
+
+enum type_t: uint32
+{
+    a,
+    b,
+}
+
+struct data_t
+{
+    x: float;
+    y: float;
+}
+
+struct _3d
+{
+    x: float;
+    y: float;
+    z: float;
+}
+
+table msg_t
+{
+    type:type_t;
+    data:data_t;
+    coordinates:_3d;
+}
+
+root_type msg_t;

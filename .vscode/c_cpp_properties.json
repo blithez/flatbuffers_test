@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "includePath": [
+                "D:\\Program Files\\arm-linux-gnueabihf\\arm-linux-gnueabihf\\include\\c++\\4.9.4",
+                "D:\\Program Files\\arm-linux-gnueabihf\\arm-linux-gnueabihf\\libc\\usr\\include",
+                "D:\\Program Files\\arm-linux-gnueabihf\\usr\\include",
+                "D:\\Program Files\\arm-linux-gnueabihf\\arm-linux-gnueabihf\\include\\c++\\4.9.4\\arm-linux-gnueabihf",
+                "D:\\Program Files\\arm-linux-gnueabihf\\lib\\gcc\\arm-linux-gnueabihf\\4.9.4\\include",
+                "${workspaceFolder}/*",
+                "${workspaceFolder}\\flatbuffers\\include"
+            ]
+        }
+    ],
+    "version": 4
+}

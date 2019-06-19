@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "cassert": "cpp",
+        "*.tcc": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "queue": "cpp",
+        "csetjmp": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "ostream": "cpp",
+        "cstdint": "cpp"
+    }
+}
